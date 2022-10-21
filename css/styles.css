@@ -1,0 +1,44 @@
+body {
+    background-color: #EAEAEA;
+    color: #556567;
+    font-family: helvetica;
+}
+
+hr {
+    border-style: solid;
+    /*border-top-style: dotted;*/
+    border-color: #000000;
+    border-width: 2px;
+    position: absolute;
+    left: 0px;
+    padding: 0px;
+    width: 50%;
+}
+
+h1 {
+    color: #394A59;
+}
+
+h3 {
+    color: navy;
+}
+
+img {
+    width: 250px;
+}
+
+a:link {
+  color: #556567;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #556567;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.link {
+    font-size: 150%
+}
