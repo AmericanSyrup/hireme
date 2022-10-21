@@ -1,6 +1,6 @@
 body {
-    background-color: #EAEAEA;
-    color: #556567;
+    background-color: #A6A3A6;
+    color: #2D2A41;
     font-family: helvetica;
 }
 
@@ -28,13 +28,13 @@ img {
 }
 
 a:link {
-  color: #556567;
+  color: #2D2A41;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #556567;
+  color: #2D2A41;
   background-color: transparent;
   text-decoration: none;
 }
